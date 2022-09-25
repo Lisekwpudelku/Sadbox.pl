@@ -1,0 +1,45 @@
+body
+{
+    background: rgb(79,218,70);
+background: linear-gradient(90deg, rgba(79,218,70,1) 0%, rgba(29,253,237,1) 50%, rgba(255,0,247,1) 100%);
+}
+
+
+h1
+{
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1
+{
+    margin-left: 372px;
+}
+
+h1
+{
+    background: #FFA203;
+    background: linear-gradient(to right, #FFA203 0%, #D134D1 53%, #1AEB1A 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+li
+{
+    font-size: 26px;
+}
+
+h2
+{
+    font-size: 48px;
+    background: #BA00CF;
+    background: linear-gradient(to right, #BA00CF 0%, #DE0000 30%, #FFB300 45%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h3
+{
+    font-size: 32px;
+    color: red;
+}
